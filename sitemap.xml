@@ -5,70 +5,70 @@
 
     <url>
         <loc>https://washthecity.com/index</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/store</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/reviews</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/gallery-All</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/gallery-Pressure-Washing</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/gallery-Home-Softwash</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/service-Home-Softwash</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/service-Hard-Surface-Pressure-Washing</loc>
-        <lastmod>2022-04-18</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://washthecity.com/service-Commercial-Washing</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://washthecity.com/service-Fleet-Washing</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-05-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://washthecity.com/service-Commercial-Washing</loc>
+        <lastmod>2022-05-13</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
